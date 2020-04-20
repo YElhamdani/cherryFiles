@@ -1,0 +1,17 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(105deg,#7EC3B0 50%, #E8A87C 50%);
+    min-height: 100vh;
+}
+
+header{
+height: 100px;
+width: 100px;
+background-color: red;
+}
+main{
+    height: 100px;
+width: 100px;
+background-color: black;
+}
